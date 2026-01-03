@@ -21,13 +21,13 @@
 
 ## Структура проекта
 
-├── backend/           # Python приложение
-│   ├── Dockerfile    # Образ backend
-│   └── app.py        # Код сервера
-├── nginx/
-│   └── nginx.conf    # Конфигурация proxy
-├── docker-compose.yml # Оркестрация
-└── README.md
+├── backend              # Python приложение
+│   ├── app.py           # Код сервера
+│   └── Dockerfile       # Образ backend
+├── docker-compose.yml   # Оркестрация
+├── nginx                # Nginx конфигурация
+│   └── nginx.conf       # Конфигурация reverse proxy
+└── README.md            # Документация
 
 ## Архитектура
 
