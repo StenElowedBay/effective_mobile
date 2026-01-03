@@ -19,15 +19,6 @@
 
 Ожидаемый ответ: `Hello from Effective Mobile!`
 
-## Структура проекта
-
-├── backend              # Python приложение
-│   ├── app.py           # Код сервера
-│   └── Dockerfile       # Образ backend
-├── docker-compose.yml   # Оркестрация
-├── nginx                # Nginx конфигурация
-│   └── nginx.conf       # Конфигурация reverse proxy
-└── README.md            # Документация
 
 ## Архитектура
 
