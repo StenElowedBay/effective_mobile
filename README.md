@@ -19,6 +19,15 @@
 
 Ожидаемый ответ: `Hello from Effective Mobile!`
 
+├── backend
+│   ├── app.py
+│   └── Dockerfile
+├── docker-compose.yml
+├── nginx
+│   └── nginx.conf
+└── README.md
+
+
 
 ## Архитектура
 
