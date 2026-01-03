@@ -7,13 +7,14 @@
 1. **Клонируйте и перейдите в папку:**
     
    git clone https://github.com/StenElowedBay/effective_mobile.git
+
    cd effective_mobile
 
-2. **Запустите приложение:**
+3. **Запустите приложение:**
     
    docker-compose up --build -d
 
-3. **Проверьте работу:**
+4. **Проверьте работу:**
     
    curl http://localhost
 
