@@ -90,8 +90,11 @@ docker-compose ps
 **Приложение не запускается:**
 
 docker-compose logs
+
 docker-compose down
+
 docker-compose build --no-cache
+
 docker-compose up -d
 
 
